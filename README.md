@@ -1,8 +1,3 @@
-# 🤖 Vortex - Adaptive LLM-Based AI Tutor
-
-<div align="center">
-  <img src="frontend/src/assets/vortex_logo.png" alt="Vortex AI Tutor Logo" width="160" height="160" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.3);" />
-  
   ### *An Adaptive, Multi-Level LLM Pedagogical Assistant*
   
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
@@ -12,8 +7,7 @@
   
   ---
   
-  ### 🎓 Udemy Course Project
-  This is **Project 3** of the highly acclaimed Udemy course: **[LLM Engineering, RAG, & AI Agents Masterclass [2026]]**. It has been built and significantly enhanced from the initial Jupyter Notebook course work into a premium, state-of-the-art **Fullstack Web App + AI Integration**.
+built and significantly enhanced from the initial Jupyter Notebook course work into a premium, state-of-the-art **Fullstack Web App + AI Integration**.
 </div>
 
 ---
@@ -232,11 +226,3 @@ Vite will host the frontend dashboard on `http://localhost:5173`. Open this URL 
 *   **Data Models**: [Pydantic v2](https://docs.pydantic.dev/)
 
 ---
-
-## 👤 Author
-Developed and maintained by **Vennilavan Manoharan**.
-
----
-
-## 📝 License
-This project is open-source and licensed under the [MIT License](LICENSE) by **Vennilavan Manoharan**. Feel free to adapt, tweak, and use it in your LLM and AI Agent research!
